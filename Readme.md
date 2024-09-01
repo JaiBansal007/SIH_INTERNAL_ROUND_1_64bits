@@ -19,7 +19,7 @@
  
 ## Project Links
  
-- **Internal Presentation:** [Internal Presentation](https://github.com/JaiBansal007/SIH_INTERNAL_ROUND_1_64bits/blob/main/file/INTERNAL_PPT_%2064%20bit.pdf)
+- **Internal Presentation:** [Internal Presentation](https://github.com/JaiBansal007/SIH_INTERNAL_ROUND_1_64bits/blob/main/file/Internal_PPT_64%20Bits.pdf)
 - **Final SIH Presentation:** [Final SIH Presentation](https://github.com/JaiBansal007/SIH_INTERNAL_ROUND_1_64bits/blob/main/file/SIH_PPT_64%20BIT.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/tYG-EaTz62E)
 - **Live Deployment:** [View Deployment](https://final-56hzbb792-jaibansal007s-projects.vercel.app/)
