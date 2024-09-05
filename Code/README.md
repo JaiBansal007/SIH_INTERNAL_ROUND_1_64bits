@@ -33,7 +33,7 @@ Follow these steps to run the project locally
    cd Code
 2. **Run these commands**
     ```bash
-    mkdir .env
+    touch .env
     ```
     In this env file setup your firebase keys .
     
