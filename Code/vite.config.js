@@ -4,7 +4,9 @@ import envCompatible from 'vite-plugin-env-compatible'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  envPrefix: 'VITE_',
   plugins: [
     react(),
+    envCompatible(),
   ],
 })
